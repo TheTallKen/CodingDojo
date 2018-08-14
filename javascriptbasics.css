@@ -1,0 +1,50 @@
+#back {
+    background-color: #1b345d;
+    padding: 10px;
+    height: 800px;
+    
+}
+
+#redcontainer {
+    background-color: #ce2f36;
+    border-radius: 25px;
+    color: #c2d6eb;
+    padding: 10px;
+}
+
+#blue {
+    background-color: #2b7c8c;
+    border-radius: 25px;
+    padding: 20px;
+    display: inline-block;
+    margin: 10px 10px 0px 0px;
+}
+
+#black {
+    width: 1000px;
+    margin: 10px;
+    padding: 20px;
+    background-color: black;
+    display: inline-block;
+    vertical-align: top;
+    color: white;
+    border-radius: 25px;
+}
+
+#end {
+    background-color: gray;
+    padding: 10px;
+    margin: 10px;
+    color: #c2d6eb;
+    border-radius: 25px;
+}
+
+
+span {
+    color:#5670b9;
+}
+
+
+a {
+    color: aqua;
+}
